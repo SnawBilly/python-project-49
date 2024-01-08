@@ -4,3 +4,4 @@
 Asciinema-even: https://asciinema.org/a/wjCMd5lsUvmfIvS81gJX7ranw
 Asciinema-calc: https://asciinema.org/a/AdDJRV2qXulVxrQtwoyJ9PL6D
 Asciinema-gcd: https://asciinema.org/a/gesMlvuPo9xebRn96QdHDzXSh
+Asciinema-progression: https://asciinema.org/a/wecNuoWFnRq5RhvaggrYlct4a
